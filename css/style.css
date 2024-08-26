@@ -12,9 +12,9 @@ img{
     width: 20%;
      height: auto;
     }
-    .container {
-        display: grid;
-        grid-template-columns: auto 1fr; 
-        align-items: center; 
-        gap: 20px; 
+    .imagem-flutuante {
+        float: left; 
+        margin-right: 20px; 
+        width: 150px; 
       }
+      
