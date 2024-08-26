@@ -8,6 +8,7 @@ h1{
     text-align: center;
     font-family: cursive;
 }
-img{
-     height: 20%;
+img{ 
+    width: 20%;
+     height: auto;
     }
