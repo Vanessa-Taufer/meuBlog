@@ -11,8 +11,7 @@ h1{
 img{ 
     width: 20%;
      height: auto;
-    
-    .imagem-flutuante 
+     
         float: left; 
         margin-right: 20px; 
         width: 150px; 
