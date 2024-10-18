@@ -3,36 +3,40 @@ body {
 }
 
 .container2 {
-    max-width: 1200px; /* Largura máxima do conteúdo */
-    margin: 0 auto; /* Centraliza horizontalmente */
-    padding: 20px; /* Adiciona um espaço interno nas laterais */
+    max-width: 1200px;
+    /* Largura máxima do conteúdo */
+    margin: 0 auto;
+    /* Centraliza horizontalmente */
+    padding: 20px;
+    /* Adiciona um espaço interno nas laterais */
 }
 
-h1{
+h1 {
     font-size: 3rem;
     color: rgb(255, 255, 255);
     font-weight: 700;
     text-align: center;
     font-family: lobster;
 }
-img{ 
-     width: 400px;
-     height: auto;
 
-        float: left; 
-        margin-right: 20px; 
-     
+img {
+    width: 400px;
+    height: auto;
+
+    float: left;
+    margin-right: 20px;
+
 }
 
 
-.container{
-    flex-direction: row; 
+.container {
+    flex-direction: row;
     justify-content: space-between;
     width: 100%;
     display: flex;
- }      
+}
 
-#title-container{
+#title-container {
     background-color: hsla(290, 100%, 85%, 0.815);
     padding: 20px;
     text-align: center;
