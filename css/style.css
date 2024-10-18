@@ -2,6 +2,12 @@ body {
     background-color: #ffffff;
 }
 
+.container2 {
+    max-width: 1200px; /* Largura máxima do conteúdo */
+    margin: 0 auto; /* Centraliza horizontalmente */
+    padding: 20px; /* Adiciona um espaço interno nas laterais */
+}
+
 h1{
     font-size: 3rem;
     color: rgb(255, 255, 255);
